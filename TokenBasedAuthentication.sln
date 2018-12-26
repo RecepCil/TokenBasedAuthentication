@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenBasedAuthentication.WebAPI", "TokenBasedAuthentication.WebAPI\TokenBasedAuthentication.WebAPI.csproj", "{56FAD0CB-E2DB-4AC7-8B73-008AB50E4D02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56FAD0CB-E2DB-4AC7-8B73-008AB50E4D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FAD0CB-E2DB-4AC7-8B73-008AB50E4D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FAD0CB-E2DB-4AC7-8B73-008AB50E4D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FAD0CB-E2DB-4AC7-8B73-008AB50E4D02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FE3F014-D8E0-422E-858D-997A5F5647D1}
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.0\lib\NET35
+	EndGlobalSection
+EndGlobal
