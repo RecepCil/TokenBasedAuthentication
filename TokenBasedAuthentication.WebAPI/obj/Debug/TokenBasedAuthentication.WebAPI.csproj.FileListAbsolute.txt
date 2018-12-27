@@ -99,4 +99,13 @@ C:\Users\User\source\repos\TokenBasedAuthentication\TokenBasedAuthentication.Web
 C:\Users\User\source\repos\TokenBasedAuthentication\TokenBasedAuthentication.WebAPI\bin\Microsoft.Practices.Unity.Configuration.xml
 C:\Users\User\source\repos\TokenBasedAuthentication\TokenBasedAuthentication.WebAPI\bin\Ninject.dll
 C:\Users\User\source\repos\TokenBasedAuthentication\TokenBasedAuthentication.WebAPI\bin\Ninject.xml
+C:\Users\User\source\repos\TokenBasedAuthentication\TokenBasedAuthentication.WebAPI\bin\Ninject.Web.Common.dll
+C:\Users\User\source\repos\TokenBasedAuthentication\TokenBasedAuthentication.WebAPI\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\User\source\repos\TokenBasedAuthentication\TokenBasedAuthentication.WebAPI\bin\Ninject.Web.WebApi.dll
+C:\Users\User\source\repos\TokenBasedAuthentication\TokenBasedAuthentication.WebAPI\bin\Ninject.Web.WebApi.WebHost.dll
+C:\Users\User\source\repos\TokenBasedAuthentication\TokenBasedAuthentication.WebAPI\bin\WebActivatorEx.dll
+C:\Users\User\source\repos\TokenBasedAuthentication\TokenBasedAuthentication.WebAPI\bin\Ninject.Web.Common.xml
+C:\Users\User\source\repos\TokenBasedAuthentication\TokenBasedAuthentication.WebAPI\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\User\source\repos\TokenBasedAuthentication\TokenBasedAuthentication.WebAPI\bin\Ninject.Web.WebApi.xml
+C:\Users\User\source\repos\TokenBasedAuthentication\TokenBasedAuthentication.WebAPI\bin\Ninject.Web.WebApi.WebHost.xml
 C:\Users\User\source\repos\TokenBasedAuthentication\TokenBasedAuthentication.WebAPI\obj\Debug\TokenBasedAuthentication.WebAPI.csprojAssemblyReference.cache

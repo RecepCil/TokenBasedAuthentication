@@ -5,6 +5,7 @@ using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
 using System.Web;
+using TokenBasedAuthentication.WebAPI.Data;
 using TokenBasedAuthentication.WebAPI.Domain;
 using TokenBasedAuthentication.WebAPI.Services;
 

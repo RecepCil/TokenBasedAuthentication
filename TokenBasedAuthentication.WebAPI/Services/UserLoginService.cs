@@ -55,7 +55,7 @@ namespace TokenBasedAuthentication.WebAPI.Services
         public async Task LogInAsync(UserLogin userLogin)
         {
             var client = new HttpClient();
-            client.BaseAddress = new Uri("http://localhost:12345/token");
+            client.BaseAddress = new Uri("http://localhost:52025/token");
             var request = new HttpRequestMessage(HttpMethod.Post, client.BaseAddress);
 
             var keyValues = new List<KeyValuePair<string, string>>();

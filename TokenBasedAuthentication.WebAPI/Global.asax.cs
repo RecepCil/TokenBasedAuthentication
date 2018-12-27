@@ -8,8 +8,6 @@ using System.Web.Security;
 using System.Web.SessionState;
 using System.Web.Http;
 using TokenBasedAuthentication.Web.Domain;
-using TokenBasedAuthentication.WebAPI.Infrastructure;
-using TokenBasedAuthentication.WebAPI.ModelBinder;
 using TokenBasedAuthentication.WebAPI.Services;
 
 namespace TokenBasedAuthentication.WebAPI
@@ -24,11 +22,11 @@ namespace TokenBasedAuthentication.WebAPI
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             System.Data.Entity.Database.SetInitializer(new DatabaseInitializer());
 
-            Bootstrapper.Initialise();
-            ControllerBuilder.Current.SetControllerFactory(new NinjectControllerFactory());
+            //Bootstrapper.Initialise();
+           // ControllerBuilder.Current.SetControllerFactory(new NinjectControllerFactory());
 
-            ModelBinders.Binders.Add(typeof(IUserLoginService), new UserModelBinder());
-            ModelBinders.Binders.Add(typeof(ICustomerService), new CustomerModelBinder());
+           // ModelBinders.Binders.Add(typeof(IUserLoginService), new UserModelBinder());
+            //ModelBinders.Binders.Add(typeof(ICustomerService), new CustomerModelBinder());
         }
     }
 }
